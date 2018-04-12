@@ -19,3 +19,7 @@
 效果图:
 
 ![screenshot](https://img.alicdn.com/tfs/TB1NKRzdY9YBuNjy0FgXXcxcXXa-1920-1080.png)
+
+
+ **注册页**
+![screenshot](https://raw.githubusercontent.com/icai/ice-admin/master/screenshots/2018-04-12_175340.png)
